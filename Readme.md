@@ -4,6 +4,7 @@ Magento 2 Biddyut Shipping (Sslwireless_Biddyut &  Sslwireless_Address)
 
 Goals:
 =======================================
+
 - Biddyut/iPost(A Technology Driven Logistics & Delivery Company Bangladesh/Kurdistan Magento 2.x
 - Custom Shipping Module For Magento 2 Between Magento 2 Store & Carrier Site .
 - Shipping Price Calculate According To Biddyut/iPost Rate Via API To Your Magento 2x Store That Finaly Show Shipping Cost.
@@ -16,6 +17,7 @@ Tested: Magento 2.2.3
 
 install:
 =======================================
+
 -- More Details please check doc folder
 
 # magento2-Biddyut- Sslwireless_Biddyut
@@ -25,20 +27,14 @@ install:
 
 ## magento2-Biddyut- Sslwireless_Biddyut
 =======================================
+
  -Shipping Charge Calculator via API
  -Dependency module  SSLWireless Address(https://github.com/sslcommerz)
 
 
 
-
-
-
-
-
-
-
-
 Refarance:
+
 https://cedcommerce.com/magento-2-module-creator/shipping-module
 
 https://github.com/cedcommerce/magento-2-sample-module
