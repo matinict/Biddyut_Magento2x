@@ -37,6 +37,7 @@ install:
 Refarance:
 =======================================
 
+https://www.magestore.com/magento-2-tutorial/magento-2-modules/
 
 https://cedcommerce.com/magento-2-module-creator/shipping-module
 
