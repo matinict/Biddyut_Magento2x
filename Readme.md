@@ -33,10 +33,12 @@ install:
       php bin/magento cache:clean
 
       sudo chmod 777 -R generated/*  var/* pub/*
-      
+
       rm var/cache/*  generated/code/* var/view_preprocessed/* var/page_cache/*  pub/static/frontend/* pub/static/adminhtml/* -R
 
 -- More Details please check doc folder
+
+    https://github.com/sslcommerz/Biddyut_Magento2x/blob/master/doc/Magento2x_Biddyut_Doc.docx?raw=true
 
 -- magento2-Biddyut- Sslwireless_Biddyut
 
