@@ -121,3 +121,6 @@ Development Team:
  * @Vendor    SSLWireless Address(https://github.com/sslcommerz)
 
 ---
+## Contributing
+
+By contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the license(s) under which this project is distributed.
