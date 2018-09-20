@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <sslwireless_biddyut>
+            <settings>
+                <enabled>1</enabled>
+            </settings>
+        </sslwireless_biddyut>
+
+        <carriers>
+            <biddyut>
+                <active>1</active>
+                <sallowspecific>0</sallowspecific>
+								<model>Sslwireless\Biddyut\Model\Carrier\Biddyut</model>
+								<title>iPost Shipping</title>
+                <method>Calculated</method>
+                <storeid>Demo Store 1</storeid>
+                <passwd>123456</passwd>
+                <key>7d2ApP4</key>
+                <origin>Demo Pickup Location 1</origin>
+                <sort_order>1</sort_order>
+                <!-- <price>0.00</price> -->
+               <specificerrmsg>iPost Shipping is not available for your area. Please contact us.</specificerrmsg>
+            </biddyut>
+            <!-- carrier-config -->
+        </carriers>
+    </default>
+</config>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="region_listing_data_source" xsi:type="string">Sslwireless\Address\Model\ResourceModel\Region\Grid\Collection</item>
+                <item name="city_listing_data_source" xsi:type="string">Sslwireless\Address\Model\ResourceModel\City\Grid\Collection</item>
+                <item name="township_listing_data_source" xsi:type="string">Sslwireless\Address\Model\ResourceModel\Township\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <virtualType name="SslwirelessRegionGirdFilterPool" type="Magento\Framework\View\Element\UiComponent\DataProvider\FilterPool">
+        <arguments>
+            <argument name="appliers" xsi:type="array">
+                <item name="regular" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\RegularFilter</item>
+                <item name="fulltext" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\FulltextFilter</item>
+            </argument>
+        </arguments>
+    </virtualType>
+    <virtualType name="SslwirelessAddressRegionGridDataProvider" type="Magento\Framework\View\Element\UiComponent\DataProvider\DataProvider">
+        <arguments>
+            <argument name="collection" xsi:type="object" shared="false">Sslwireless\Address\Model\ResourceModel\Region\Collection</argument>
+            <argument name="filterPool" xsi:type="object" shared="false">SslwirelessRegionGirdFilterPool</argument>
+        </arguments>
+    </virtualType>
+    <type name="Sslwireless\Address\Model\ResourceModel\Region\Grid\Collection">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">directory_country_region</argument>
+            <argument name="eventPrefix" xsi:type="string">directory_country_region_grid_collection</argument>
+            <argument name="eventObject" xsi:type="string">region_grid_collection</argument>
+            <argument name="resourceModel" xsi:type="string">Sslwireless\Address\Model\ResourceModel\Region</argument>
+        </arguments>
+    </type>
+
+    <virtualType name="SslwirelessCityGirdFilterPool" type="Magento\Framework\View\Element\UiComponent\DataProvider\FilterPool">
+        <arguments>
+            <argument name="appliers" xsi:type="array">
+                <item name="regular" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\RegularFilter</item>
+                <item name="fulltext" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\FulltextFilter</item>
+            </argument>
+        </arguments>
+    </virtualType>
+    <virtualType name="SslwirelessAddressCityGridDataProvider" type="Magento\Framework\View\Element\UiComponent\DataProvider\DataProvider">
+        <arguments>
+            <argument name="collection" xsi:type="object" shared="false">Sslwireless\Address\Model\ResourceModel\City\Collection</argument>
+            <argument name="filterPool" xsi:type="object" shared="false">SslwirelessCityGirdFilterPool</argument>
+        </arguments>
+    </virtualType>
+    <type name="Sslwireless\Address\Model\ResourceModel\City\Grid\Collection">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">directory_region_city</argument>
+            <argument name="eventPrefix" xsi:type="string">directory_region_city_grid_collection</argument>
+            <argument name="eventObject" xsi:type="string">city_grid_collection</argument>
+            <argument name="resourceModel" xsi:type="string">Sslwireless\Address\Model\ResourceModel\City</argument>
+        </arguments>
+    </type>
+
+    <virtualType name="SslwirelessTownshipGirdFilterPool" type="Magento\Framework\View\Element\UiComponent\DataProvider\FilterPool">
+        <arguments>
+            <argument name="appliers" xsi:type="array">
+                <item name="regular" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\RegularFilter</item>
+                <item name="fulltext" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\FulltextFilter</item>
+            </argument>
+        </arguments>
+    </virtualType>
+    <virtualType name="SslwirelessAddressTownshipGridDataProvider" type="Magento\Framework\View\Element\UiComponent\DataProvider\DataProvider">
+        <arguments>
+            <argument name="collection" xsi:type="object" shared="false">Sslwireless\Address\Model\ResourceModel\Township\Collection</argument>
+            <argument name="filterPool" xsi:type="object" shared="false">SslwirelessTownshipGirdFilterPool</argument>
+        </arguments>
+    </virtualType>
+    <type name="Sslwireless\Address\Model\ResourceModel\Township\Grid\Collection">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">directory_city_township</argument>
+            <argument name="eventPrefix" xsi:type="string">directory_city_township_grid_collection</argument>
+            <argument name="eventObject" xsi:type="string">township_grid_collection</argument>
+            <argument name="resourceModel" xsi:type="string">Sslwireless\Address\Model\ResourceModel\Township</argument>
+        </arguments>
+    </type>
+
+    <type name="Magento\Quote\Model\BillingAddressManagement">
+        <plugin disabled="false" name="Sslwireless_Address_Plugin_Magento_Quote_Model_BillingAddressManagement" sortOrder="10" type="Sslwireless\Address\Plugin\Magento\Quote\Model\BillingAddressManagement"/>
+    </type>
+    <type name="Magento\Quote\Model\ShippingAddressManagement">
+        <plugin disabled="false" name="Sslwireless_Address_Plugin_Magento_Quote_Model_ShippingAddressManagement" sortOrder="10" type="Sslwireless\Address\Plugin\Magento\Quote\Model\ShippingAddressManagement"/>
+    </type>
+    <type name="Magento\Checkout\Model\PaymentInformationManagement">
+        <plugin disabled="false" name="Sslwireless_Address_Plugin_Magento_Checkout_Model_PaymentInformationManagement" sortOrder="10" type="Sslwireless\Address\Plugin\Magento\Checkout\Model\PaymentInformationManagement"/>
+    </type>
+    <type name="Magento\Checkout\Block\Checkout\DirectoryDataProcessor">
+        <plugin disabled="false" name="Sslwireless_Address_Plugin_Magento_Checkout_Block_Checkout_DirectoryDataProcessor" sortOrder="10" type="Sslwireless\Address\Plugin\Magento\Checkout\Block\Checkout\DirectoryDataProcessor"/>
+    </type>
+    <type name="Magento\Customer\Model\Address\Mapper">
+        <plugin disabled="false" name="Sslwireless_Address_Plugin_Magento_Customer_Model_Address_Mapper" sortOrder="10" type="Sslwireless\Address\Plugin\Magento\Customer\Model\Address\Mapper"/>
+    </type>
+    <type name="Magento\Framework\Api\DataObjectHelper">
+        <plugin name="Sslwireless_Address_Plugin_Magento_Framework_Api_DataObjectHelper" type="Sslwireless\Address\Plugin\Magento\Framework\Api\DataObjectHelper" sortOrder="10"/>
+    </type>
+    <type name="Magento\Framework\Reflection\DataObjectProcessor">
+        <plugin name="Sslwireless_Address_Plugin_Magento_Framework_Reflection_DataObjectProcessor" type="Sslwireless\Address\Plugin\Magento\Framework\Reflection\DataObjectProcessor" sortOrder="10"/>
+    </type>
+    <preference for="Magento\Customer\Model\Data\Address" type="Sslwireless\Address\Model\Data\Address" />
+</config>

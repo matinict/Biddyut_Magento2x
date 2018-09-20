@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <fieldset name="address">
+        <field name="city_id" component="Sslwireless_Address/js/form/element/city" formElement="select">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="source" xsi:type="string">address</item>
+                </item>
+            </argument>
+            <settings>
+                <validation>
+                    <rule name="required-entry" xsi:type="boolean">true</rule>
+                </validation>
+                <dataType>text</dataType>
+            </settings>
+            <formElements>
+                <select>
+                    <settings>
+                        <filterBy>
+                            <field>region_id</field>
+                            <target>${ $.provider }:${ $.parentScope }.region_id</target>
+                        </filterBy>
+                    </settings>
+                </select>
+            </formElements>
+        </field>
+        <field name="township_id" component="Sslwireless_Address/js/form/element/township" formElement="select">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="source" xsi:type="string">address</item>
+                </item>
+            </argument>
+            <settings>
+                <validation>
+                    <rule name="required-entry" xsi:type="boolean">true</rule>
+                </validation>
+                <dataType>text</dataType>
+            </settings>
+            <formElements>
+                <select>
+                    <settings>
+                        <filterBy>
+                            <field>city_id</field>
+                            <target>${ $.provider }:${ $.parentScope }.city_id</target>
+                        </filterBy>
+                        <customEntry>township</customEntry>
+                    </settings>
+                </select>
+            </formElements>
+        </field>
+        <field name="township" formElement="input">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="source" xsi:type="string">address</item>
+                </item>
+            </argument>
+            <settings>
+                <dataType>text</dataType>
+                <visible>false</visible>
+            </settings>
+        </field>
+    </fieldset>
+</form>

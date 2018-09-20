@@ -1,0 +1,1646 @@
+region_code,city_name
+PH-MM,Manila City (Tondo)
+PH-MM,Manila City (Binondo)
+PH-MM,Manila City (Quiapo)
+PH-MM,Manila City (San Nicolas)
+PH-MM,Manila City (Santa Cruz)
+PH-MM,Manila City (Sampaloc)
+PH-MM,Manila City (San Miguel)
+PH-MM,Manila City (Ermita)
+PH-MM,Manila City (Intramuros)
+PH-MM,Manila City (Malate)
+PH-MM,Manila City (Paco)
+PH-MM,Manila City (Pandacan)
+PH-MM,Manila City (Port Area)
+PH-MM,Manila City (Santa Ana)
+PH-MM,Makati City
+PH-MM,Muntinlupa City
+PH-MM,Paranaque City
+PH-MM,Pasay City
+PH-MM,Pateros
+PH-MM,Taguig City
+PH-MM,Marikina City
+PH-MM,Pasig City
+PH-MM,Quezon City
+PH-MM,San Juan City
+PH-MM,Malabon City
+PH-MM,Navotas City
+PH-MM,Valenzuela City
+PH-MM,Las Pinas City
+PH-MM,Mandaluyong City
+PH-MM,Caloocan City
+PH-AB,Boliney
+PH-AB,Bucay
+PH-AB,Bucloc
+PH-AB,Daguioman
+PH-AB,Danglas
+PH-AB,Dolores
+PH-AB,La Paz
+PH-AB,Lacub
+PH-AB,Lagangilang
+PH-AB,Lagayan
+PH-AB,Langiden
+PH-AB,Licuan-Baay (Licuan)
+PH-AB,Luba
+PH-AB,Malibcong
+PH-AB,Manabo
+PH-AB,Penarrubia
+PH-AB,Pidigan
+PH-AB,Pilar
+PH-AB,Sallapadan
+PH-AB,San Isidro
+PH-AB,San Juan
+PH-AB,San Quintin
+PH-AB,Tayum
+PH-AB,Tineg
+PH-AB,Tubo
+PH-AB,Villaviciosa
+PH-AP,Conner
+PH-AP,Flora
+PH-AP,Kabugao
+PH-AP,Luna
+PH-AP,Pudtol
+PH-AP,Santa Marcela
+PH-BG,Baguio
+PH-BG,Bakun
+PH-BG,Bokod
+PH-BG,Buguias
+PH-BG,Itogon
+PH-BG,Kabayan
+PH-BG,Kapangan
+PH-BG,Kibungan
+PH-BG,La Trinidad
+PH-BG,Mankayan
+PH-BG,Sablan
+PH-BG,Tuba
+PH-BG,Tublay
+PH-IF,Hungduan
+PH-IF,Kiangan
+PH-IF,Lagawe
+PH-IF,Lamut
+PH-IF,Mayoyao
+PH-IF,Alfonso Lista (Potia)
+PH-IF,Aguinaldo
+PH-IF,Hingyon
+PH-IF,Tinoc
+PH-IF,Asipulo
+PH-KA,Lubuagan
+PH-KA,Pasil
+PH-KA,Pinukpuk
+PH-KA,Rizal (Liwan)
+PH-KA,Tabuk
+PH-KA,Tanudan
+PH-KA,Tinglayan
+PH-MT,Bauko
+PH-MT,Besao
+PH-MT,Bontoc
+PH-MT,Natonin
+PH-MT,Paracelis
+PH-MT,Sabangan
+PH-MT,Sadanga
+PH-MT,Sagada
+PH-MT,Tadian
+PH-AB,Bangued
+PH-AP,Calanasan (Bayag)
+PH-BG,Atok
+PH-IF,Banaue
+PH-KA,Balbalan
+PH-MT,Barlig
+PH-IN,Bacarra
+PH-IN,Badoc
+PH-IN,Bangui
+PH-IN,Batac
+PH-IN,Burgos
+PH-IN,Carasi
+PH-IN,Currimao
+PH-IN,Dingras
+PH-IN,Dumalneg
+PH-IN,Banna (Espiritu)
+PH-IN,Laoag
+PH-IN,Marcos
+PH-IN,Nueva Era
+PH-IN,Pagudpud
+PH-IN,Paoay
+PH-IN,Pasuquin
+PH-IN,Piddig
+PH-IN,Pinili
+PH-IN,San Nicolas
+PH-IN,Sarrat
+PH-IN,Solsona
+PH-IN,Vintar
+PH-IS,Banayoyo
+PH-IS,Bantay
+PH-IS,Burgos
+PH-IS,Cabugao
+PH-IS,Candon
+PH-IS,Caoayan
+PH-IS,Cervantes
+PH-IS,Galimuyod
+PH-IS,Gregorio Del Pilar (Concepcion)
+PH-IS,Lidlidda
+PH-IS,Magsingal
+PH-IS,Nagbukel
+PH-IS,Narvacan
+PH-IS,Quirino (Angkaki)
+PH-IS,Salcedo (Baugen)
+PH-IS,San Emilio
+PH-IS,San Esteban
+PH-IS,San Ildefonso
+PH-IS,San Juan (Lapog)
+PH-IS,San Vicente
+PH-IS,Santa
+PH-IS,Santa Catalina
+PH-IS,Santa Cruz
+PH-IS,Santa Lucia
+PH-IS,Santa Maria
+PH-IS,Santiago
+PH-IS,Santo Domingo
+PH-IS,Sigay
+PH-IS,Sinait
+PH-IS,Sugpon
+PH-IS,Suyo
+PH-IS,Tagudin
+PH-IS,Vigan
+PH-LU,Aringay
+PH-LU,Bacnotan
+PH-LU,Bagulin
+PH-LU,Balaoan
+PH-LU,Bangar
+PH-LU,Bauang
+PH-LU,Burgos
+PH-LU,Caba
+PH-LU,Luna
+PH-LU,Naguilian
+PH-LU,Pugo
+PH-LU,Rosario
+PH-LU,San Fernando
+PH-LU,San Gabriel
+PH-LU,San Juan
+PH-LU,Santo Tomas
+PH-LU,Santol
+PH-LU,Sudipen
+PH-LU,Tubao
+PH-PN,Aguilar
+PH-PN,Alaminos
+PH-PN,Alcala
+PH-PN,Anda
+PH-PN,Asingan
+PH-PN,Balungao
+PH-PN,Bani
+PH-PN,Basista
+PH-PN,Bautista
+PH-PN,Bayambang
+PH-PN,Binalonan
+PH-PN,Binmaley
+PH-PN,Bolinao
+PH-PN,Bugallon
+PH-PN,Burgos
+PH-PN,Calasiao
+PH-PN,Dagupan
+PH-PN,Dasol
+PH-PN,Infanta
+PH-PN,Labrador
+PH-PN,Lingayen
+PH-PN,Mabini
+PH-PN,Malasiqui
+PH-PN,Manaoag
+PH-PN,Mangaldan
+PH-PN,Mangatarem
+PH-PN,Mapandan
+PH-PN,Natividad
+PH-PN,Pozorrubio
+PH-PN,Rosales
+PH-PN,San Carlos
+PH-PN,San Fabian
+PH-PN,San Jacinto
+PH-PN,San Manuel
+PH-PN,San Nicolas
+PH-PN,San Quintin
+PH-PN,Santa Barbara
+PH-PN,Santa Maria
+PH-PN,Santo Tomas
+PH-PN,Sison
+PH-PN,Sual
+PH-PN,Tayug
+PH-PN,Umingan
+PH-PN,Urbiztondo
+PH-PN,Urdaneta
+PH-PN,Villasis
+PH-PN,Laoac
+PH-IN,Adams
+PH-IS,Alilem
+PH-LU,Agoo
+PH-PN,Agno
+PH-BN,Itbayat
+PH-BN,Ivana
+PH-BN,Mahatao
+PH-BN,Sabtang
+PH-BN,Uyugan
+PH-CG,Alcala
+PH-CG,Allacapan
+PH-CG,Amulung
+PH-CG,Aparri
+PH-CG,Baggao
+PH-CG,Ballesteros
+PH-CG,Buguey
+PH-CG,Calayan
+PH-CG,Camalaniugan
+PH-CG,Claveria
+PH-CG,Enrile
+PH-CG,Gattaran
+PH-CG,Gonzaga
+PH-CG,Iguig
+PH-CG,Lal-Lo
+PH-CG,Lasam
+PH-CG,Pamplona
+PH-CG,Penablanca
+PH-CG,Piat
+PH-CG,Rizal
+PH-CG,Sanchez-Mira
+PH-CG,Santa Ana
+PH-CG,Santa Praxedes
+PH-CG,Santa Teresita
+PH-CG,Santo Nino (Faire)
+PH-CG,Solana
+PH-CG,Tuao
+PH-CG,Tuguegarao
+PH-IB,Angadanan
+PH-IB,Aurora
+PH-IB,Benito Soliven
+PH-IB,Burgos
+PH-IB,Cabagan
+PH-IB,Cabatuan
+PH-IB,Cauayan
+PH-IB,Cordon
+PH-IB,Dinapigue
+PH-IB,Divilacan
+PH-IB,Echague
+PH-IB,Gamu
+PH-IB,Ilagan
+PH-IB,Jones
+PH-IB,Luna
+PH-IB,Maconacon
+PH-IB,Delfin Albano (Magsaysay)
+PH-IB,Mallig
+PH-IB,Naguilian
+PH-IB,Palanan
+PH-IB,Quezon
+PH-IB,Quirino
+PH-IB,Ramon
+PH-IB,Reina Mercedes
+PH-IB,Roxas
+PH-IB,San Agustin
+PH-IB,San Guillermo
+PH-IB,San Isidro
+PH-IB,San Manuel
+PH-IB,San Mariano
+PH-IB,San Mateo
+PH-IB,San Pablo
+PH-IB,Santa Maria
+PH-IB,Santiago
+PH-IB,Santo Tomas
+PH-IB,Tumauini
+PH-NV,Aritao
+PH-NV,Bagabag
+PH-NV,Bambang
+PH-NV,Bayombong
+PH-NV,Diadi
+PH-NV,Dupax Del Norte
+PH-NV,Dupax Del Sur
+PH-NV,Kasibu
+PH-NV,Kayapa
+PH-NV,Quezon
+PH-NV,Santa Fe
+PH-NV,Solano
+PH-NV,Villaverde
+PH-NV,Alfonso Castaneda
+PH-QR,Cabarroguis
+PH-QR,Diffun
+PH-QR,Maddela
+PH-QR,Saguday
+PH-QR,Nagtipunan
+PH-BN,Basco
+PH-CG,Abulug
+PH-IB,Alicia
+PH-NV,Ambaguio
+PH-QR,Aglipay
+PH-AU,Casiguran
+PH-AU,Dilasag
+PH-AU,Dinalungan
+PH-AU,Dingalan
+PH-AU,Dipaculao
+PH-AU,Maria Aurora
+PH-AU,San Luis
+PH-BA,Bagac
+PH-BA,Balanga
+PH-BA,Dinalupihan
+PH-BA,Hermosa
+PH-BA,Limay
+PH-BA,Mariveles
+PH-BA,Morong
+PH-BA,Orani
+PH-BA,Orion
+PH-BA,Pilar
+PH-BA,Samal
+PH-BU,Balagtas (Bigaa)
+PH-BU,Baliuag
+PH-BU,Bocaue
+PH-BU,Bulacan
+PH-BU,Bustos
+PH-BU,Calumpit
+PH-BU,Guiguinto
+PH-BU,Hagonoy
+PH-BU,Malolos
+PH-BU,Marilao
+PH-BU,Meycauayan
+PH-BU,Norzagaray
+PH-BU,Obando
+PH-BU,Pandi
+PH-BU,Paombong
+PH-BU,Plaridel
+PH-BU,Pulilan
+PH-BU,San Ildefonso
+PH-BU,San Jose Del Monte
+PH-BU,San Miguel
+PH-BU,San Rafael
+PH-BU,Santa Maria
+PH-BU,Dona Remedios Trinidad
+PH-NE,Bongabon
+PH-NE,Cabanatuan
+PH-NE,Cabiao
+PH-NE,Carranglan
+PH-NE,Cuyapo
+PH-NE,Gabaldon (Bitulok & Sabani)
+PH-NE,Gapan
+PH-NE,General Mamerto Natividad
+PH-NE,General Tinio (Papaya)
+PH-NE,Guimba
+PH-NE,Jaen
+PH-NE,Laur
+PH-NE,Licab
+PH-NE,Llanera
+PH-NE,Lupao
+PH-NE,Science Munoz
+PH-NE,Nampicuan
+PH-NE,Palayan
+PH-NE,Pantabangan
+PH-NE,Penaranda
+PH-NE,Quezon
+PH-NE,Rizal
+PH-NE,San Antonio
+PH-NE,San Isidro
+PH-NE,San Jose
+PH-NE,San Leonardo
+PH-NE,Santa Rosa
+PH-NE,Santo Domingo
+PH-NE,Talavera
+PH-NE,Talugtug
+PH-NE,Zaragoza
+PH-PM,Apalit
+PH-PM,Arayat
+PH-PM,Bacolor
+PH-PM,Candaba
+PH-PM,Floridablanca
+PH-PM,Guagua
+PH-PM,Lubao
+PH-PM,Mabalacat
+PH-PM,Macabebe
+PH-PM,Magalang
+PH-PM,Masantol
+PH-PM,Mexico
+PH-PM,Minalin
+PH-PM,Porac
+PH-PM,San Fernando
+PH-PM,San Luis
+PH-PM,San Simon
+PH-PM,Santa Ana
+PH-PM,Santa Rita
+PH-PM,Santo Tomas
+PH-PM,Sasmuan (Sexmoan)
+PH-TR,Bamban
+PH-TR,Camiling
+PH-TR,Capas
+PH-TR,Concepcion
+PH-TR,Gerona
+PH-TR,La Paz
+PH-TR,Mayantoc
+PH-TR,Moncada
+PH-TR,Paniqui
+PH-TR,Pura
+PH-TR,Ramos
+PH-TR,San Clemente
+PH-TR,San Manuel
+PH-TR,Santa Ignacia
+PH-TR,Tarlac
+PH-TR,Victoria
+PH-TR,San Jose
+PH-ZM,Cabangan
+PH-ZM,Candelaria
+PH-ZM,Castillejos
+PH-ZM,Iba
+PH-ZM,Masinloc
+PH-ZM,Olongapo
+PH-ZM,Palauig
+PH-ZM,San Antonio
+PH-ZM,San Felipe
+PH-ZM,San Marcelino
+PH-ZM,San Narciso
+PH-ZM,Santa Cruz
+PH-ZM,Subic
+PH-AU,Baler
+PH-BA,Abucay
+PH-BU,Angat
+PH-NE,Aliaga
+PH-PM,Angeles
+PH-TR,Anao
+PH-ZM,Botolan
+PH-BT,Alitagtag
+PH-BT,Balayan
+PH-BT,Balete
+PH-BT,Batangas
+PH-BT,Bauan
+PH-BT,Calaca
+PH-BT,Calatagan
+PH-BT,Cuenca
+PH-BT,Ibaan
+PH-BT,Laurel
+PH-BT,Lemery
+PH-BT,Lian
+PH-BT,Lipa
+PH-BT,Lobo
+PH-BT,Mabini
+PH-BT,Malvar
+PH-BT,Mataasnakahoy
+PH-BT,Nasugbu
+PH-BT,Padre Garcia
+PH-BT,Rosario
+PH-BT,San Jose
+PH-BT,San Juan
+PH-BT,San Luis
+PH-BT,San Nicolas
+PH-BT,San Pascual
+PH-BT,Santa Teresita
+PH-BT,Santo Tomas
+PH-BT,Taal
+PH-BT,Talisay
+PH-BT,Tanauan
+PH-BT,Taysan
+PH-BT,Tingloy
+PH-BT,Tuy
+PH-CV,Amadeo
+PH-CV,Bacoor
+PH-CV,Carmona
+PH-CV,Cavite
+PH-CV,Dasmarinas
+PH-CV,General Emilio Aguinaldo
+PH-CV,General Trias
+PH-CV,Imus
+PH-CV,Indang
+PH-CV,Kawit
+PH-CV,Magallanes
+PH-CV,Maragondon
+PH-CV,Mendez (Mendez-Nunez)
+PH-CV,Naic
+PH-CV,Noveleta
+PH-CV,Rosario
+PH-CV,Silang
+PH-CV,Tagaytay
+PH-CV,Tanza
+PH-CV,Ternate
+PH-CV,Trece Martires
+PH-CV,Gen. Mariano Alvarez
+PH-LG,Bay
+PH-LG,Binan
+PH-LG,Cabuyao
+PH-LG,Calamba
+PH-LG,Calauan
+PH-LG,Cavinti
+PH-LG,Famy
+PH-LG,Kalayaan
+PH-LG,Liliw
+PH-LG,Los Banos
+PH-LG,Luisiana
+PH-LG,Lumban
+PH-LG,Mabitac
+PH-LG,Magdalena
+PH-LG,Majayjay
+PH-LG,Nagcarlan
+PH-LG,Paete
+PH-LG,Pagsanjan
+PH-LG,Pakil
+PH-LG,Pangil
+PH-LG,Pila
+PH-LG,Rizal
+PH-LG,San Pablo
+PH-LG,San Pedro
+PH-LG,Santa Cruz
+PH-LG,Santa Maria
+PH-LG,Santa Rosa
+PH-LG,Siniloan
+PH-LG,Victoria
+PH-QZ,Alabat
+PH-QZ,Atimonan
+PH-QZ,Buenavista
+PH-QZ,Burdeos
+PH-QZ,Calauag
+PH-QZ,Candelaria
+PH-QZ,Catanauan
+PH-QZ,Dolores
+PH-QZ,General Luna
+PH-QZ,General Nakar
+PH-QZ,Guinayangan
+PH-QZ,Gumaca
+PH-QZ,Infanta
+PH-QZ,Jomalig
+PH-QZ,Lopez
+PH-QZ,Lucban
+PH-QZ,Lucena
+PH-QZ,Macalelon
+PH-QZ,Mauban
+PH-QZ,Mulanay
+PH-QZ,Padre Burgos
+PH-QZ,Pagbilao
+PH-QZ,Panukulan
+PH-QZ,Patnanungan
+PH-QZ,Perez
+PH-QZ,Pitogo
+PH-QZ,Plaridel
+PH-QZ,Polillo
+PH-QZ,Quezon
+PH-QZ,Real
+PH-QZ,Sampaloc
+PH-QZ,San Andres
+PH-QZ,San Antonio
+PH-QZ,San Francisco (Aurora)
+PH-QZ,San Narciso
+PH-QZ,Sariaya
+PH-QZ,Tagkawayan
+PH-QZ,Tayabas
+PH-QZ,Tiaong
+PH-QZ,Unisan
+PH-RI,Antipolo
+PH-RI,Baras
+PH-RI,Binangonan
+PH-RI,Cainta
+PH-RI,Cardona
+PH-RI,Jala-Jala
+PH-RI,Rodriguez (Montalban)
+PH-RI,Morong
+PH-RI,Pililla
+PH-RI,San Mateo
+PH-RI,Tanay
+PH-RI,Taytay
+PH-RI,Teresa
+PH-BT,Agoncillo
+PH-CV,Alfonso
+PH-LG,Alaminos
+PH-QZ,Agdangan
+PH-RI,Angono
+PH-MQ,Buenavista
+PH-MQ,Gasan
+PH-MQ,Mogpog
+PH-MQ,Santa Cruz
+PH-MQ,Torrijos
+PH-MC,Calintaan
+PH-MC,Looc
+PH-MC,Lubang
+PH-MC,Magsaysay
+PH-MC,Mamburao
+PH-MC,Paluan
+PH-MC,Rizal
+PH-MC,Sablayan
+PH-MC,San Jose
+PH-MC,Santa Cruz
+PH-MR,Bansud
+PH-MR,Bongabong
+PH-MR,Bulalacao (San Pedro)
+PH-MR,Calapan
+PH-MR,Gloria
+PH-MR,Mansalay
+PH-MR,Naujan
+PH-MR,Pinamalayan
+PH-MR,Pola
+PH-MR,Puerto Galera
+PH-MR,Roxas
+PH-MR,San Teodoro
+PH-MR,Socorro
+PH-MR,Victoria
+PH-PL,Agutaya
+PH-PL,Araceli
+PH-PL,Balabac
+PH-PL,Bataraza
+PH-PL,Busuanga
+PH-PL,Cagayancillo
+PH-PL,Coron
+PH-PL,Cuyo
+PH-PL,Dumaran
+PH-PL,El Nido (Bacuit)
+PH-PL,Linapacan
+PH-PL,Magsaysay
+PH-PL,Narra
+PH-PL,Puerto Princesa
+PH-PL,Quezon
+PH-PL,Roxas
+PH-PL,San Vicente
+PH-PL,Taytay
+PH-PL,Kalayaan
+PH-PL,Culion
+PH-PL,Rizal (Marcos)
+PH-PL,Sofronio Espanola
+PH-RO,Banton
+PH-RO,Cajidiocan
+PH-RO,Calatrava
+PH-RO,Concepcion
+PH-RO,Corcuera
+PH-RO,Looc
+PH-RO,Magdiwang
+PH-RO,Odiongan
+PH-RO,Romblon
+PH-RO,San Agustin
+PH-RO,San Andres
+PH-RO,San Fernando
+PH-RO,San Jose
+PH-RO,Santa Fe
+PH-RO,Ferrol
+PH-RO,Santa Maria (Imelda)
+PH-MQ,Boac
+PH-MC,Abra De Ilog
+PH-MR,Baco
+PH-PL,Aborlan
+PH-RO,Alcantara
+PH-AL,Camalig
+PH-AL,Daraga (Locsin)
+PH-AL,Guinobatan
+PH-AL,Jovellar
+PH-AL,Legazpi
+PH-AL,Libon
+PH-AL,Ligao
+PH-AL,Malilipot
+PH-AL,Malinao
+PH-AL,Manito
+PH-AL,Oas
+PH-AL,Pio Duran
+PH-AL,Polangui
+PH-AL,Rapu-Rapu
+PH-AL,Santo Domingo (Libog)
+PH-AL,Tabaco
+PH-AL,Tiwi
+PH-CN,Capalonga
+PH-CN,Daet
+PH-CN,San Lorenzo Ruiz (Imelda)
+PH-CN,Jose Panganiban
+PH-CN,Labo
+PH-CN,Mercedes
+PH-CN,Paracale
+PH-CN,San Vicente
+PH-CN,Santa Elena
+PH-CN,Talisay
+PH-CN,Vinzons
+PH-CS,Balatan
+PH-CS,Bato
+PH-CS,Bombon
+PH-CS,Buhi
+PH-CS,Bula
+PH-CS,Cabusao
+PH-CS,Calabanga
+PH-CS,Camaligan
+PH-CS,Canaman
+PH-CS,Caramoan
+PH-CS,Del Gallego
+PH-CS,Gainza
+PH-CS,Garchitorena
+PH-CS,Goa
+PH-CS,Iriga
+PH-CS,Lagonoy
+PH-CS,Libmanan
+PH-CS,Lupi
+PH-CS,Magarao
+PH-CS,Milaor
+PH-CS,Minalabac
+PH-CS,Nabua
+PH-CS,Naga
+PH-CS,Ocampo
+PH-CS,Pamplona
+PH-CS,Pasacao
+PH-CS,Pili
+PH-CS,Presentacion (Parubcan)
+PH-CS,Ragay
+PH-CS,Sagnay
+PH-CS,San Fernando
+PH-CS,San Jose
+PH-CS,Sipocot
+PH-CS,Siruma
+PH-CS,Tigaon
+PH-CS,Tinambac
+PH-CT,Baras
+PH-CT,Bato
+PH-CT,Caramoran
+PH-CT,Gigmoto
+PH-CT,Pandan
+PH-CT,Panganiban (Payo)
+PH-CT,San Andres (Calolbon)
+PH-CT,San Miguel
+PH-CT,Viga
+PH-CT,Virac
+PH-MB,Baleno
+PH-MB,Balud
+PH-MB,Batuan
+PH-MB,Cataingan
+PH-MB,Cawayan
+PH-MB,Claveria
+PH-MB,Dimasalang
+PH-MB,Esperanza
+PH-MB,Mandaon
+PH-MB,Masbate
+PH-MB,Milagros
+PH-MB,Mobo
+PH-MB,Monreal
+PH-MB,Palanas
+PH-MB,Pio V. Corpuz (Limbuhan)
+PH-MB,Placer
+PH-MB,San Fernando
+PH-MB,San Jacinto
+PH-MB,San Pascual
+PH-MB,Uson
+PH-SR,Bulan
+PH-SR,Bulusan
+PH-SR,Casiguran
+PH-SR,Castilla
+PH-SR,Donsol
+PH-SR,Gubat
+PH-SR,Irosin
+PH-SR,Juban
+PH-SR,Magallanes
+PH-SR,Matnog
+PH-SR,Pilar
+PH-SR,Prieto Diaz
+PH-SR,Santa Magdalena
+PH-SR,Sorsogon
+PH-AL,Bacacay
+PH-CN,Basud
+PH-CS,Baao
+PH-CT,Bagamanoc
+PH-MB,Aroroy
+PH-SR,Barcelona
+PH-AK,Balete
+PH-AK,Banga
+PH-AK,Batan
+PH-AK,Buruanga
+PH-AK,Ibajay
+PH-AK,Kalibo
+PH-AK,Lezo
+PH-AK,Libacao
+PH-AK,Madalag
+PH-AK,Makato
+PH-AK,Malay
+PH-AK,Malinao
+PH-AK,Nabas
+PH-AK,New Washington
+PH-AK,Numancia
+PH-AK,Tangalan
+PH-AQ,Barbaza
+PH-AQ,Belison
+PH-AQ,Bugasong
+PH-AQ,Caluya
+PH-AQ,Culasi
+PH-AQ,Tobias Fornier (Dao)
+PH-AQ,Hamtic
+PH-AQ,Laua-An
+PH-AQ,Libertad
+PH-AQ,Pandan
+PH-AQ,Patnongon
+PH-AQ,San Jose
+PH-AQ,San Remigio
+PH-AQ,Sebaste
+PH-AQ,Sibalom
+PH-AQ,Tibiao
+PH-AQ,Valderrama
+PH-CP,Dao
+PH-CP,Dumalag
+PH-CP,Dumarao
+PH-CP,Ivisan
+PH-CP,Jamindan
+PH-CP,Ma-Ayon
+PH-CP,Mambusao
+PH-CP,Panay
+PH-CP,Panitan
+PH-CP,Pilar
+PH-CP,Pontevedra
+PH-CP,President Roxas
+PH-CP,Roxas
+PH-CP,Sapi-An
+PH-CP,Sigma
+PH-CP,Tapaz
+PH-GU,Jordan
+PH-GU,Nueva Valencia
+PH-GU,San Lorenzo
+PH-GU,Sibunag
+PH-II,Alimodian
+PH-II,Anilao
+PH-II,Badiangan
+PH-II,Balasan
+PH-II,Banate
+PH-II,Barotac Nuevo
+PH-II,Barotac Viejo
+PH-II,Batad
+PH-II,Bingawan
+PH-II,Cabatuan
+PH-II,Calinog
+PH-II,Carles
+PH-II,Concepcion
+PH-II,Dingle
+PH-II,Duenas
+PH-II,Dumangas
+PH-II,Estancia
+PH-II,Guimbal
+PH-II,Igbaras
+PH-II,Iloilo
+PH-II,Janiuay
+PH-II,Lambunao
+PH-II,Leganes
+PH-II,Lemery
+PH-II,Leon
+PH-II,Maasin
+PH-II,Miagao
+PH-II,Mina
+PH-II,New Lucena
+PH-II,Oton
+PH-II,Passi
+PH-II,Pavia
+PH-II,Pototan
+PH-II,San Dionisio
+PH-II,San Enrique
+PH-II,San Joaquin
+PH-II,San Miguel
+PH-II,San Rafael
+PH-II,Santa Barbara
+PH-II,Sara
+PH-II,Tigbauan
+PH-II,Tubungan
+PH-II,Zarraga
+PH-ND,Bago
+PH-ND,Binalbagan
+PH-ND,Cadiz
+PH-ND,Calatrava
+PH-ND,Candoni
+PH-ND,Cauayan
+PH-ND,Enrique B. Magalona (Saravia)
+PH-ND,Escalante
+PH-ND,Himamaylan
+PH-ND,Hinigaran
+PH-ND,Hinoba-An (Asia)
+PH-ND,Ilog
+PH-ND,Isabela
+PH-ND,Kabankalan
+PH-ND,La Carlota
+PH-ND,La Castellana
+PH-ND,Manapla
+PH-ND,Moises Padilla (Magallon)
+PH-ND,Murcia
+PH-ND,Pontevedra
+PH-ND,Pulupandan
+PH-ND,Sagay
+PH-ND,San Carlos
+PH-ND,San Enrique
+PH-ND,Silay
+PH-ND,Sipalay
+PH-ND,Talisay
+PH-ND,Toboso
+PH-ND,Valladolid
+PH-ND,Victorias
+PH-ND,Salvador Benedicto
+PH-AK,Altavas
+PH-AQ,Anini-Y
+PH-CP,Cuartero
+PH-GU,Buenavista
+PH-II,Ajuy
+PH-ND,Bacolod
+PH-BO,Alicia
+PH-BO,Anda
+PH-BO,Antequera
+PH-BO,Baclayon
+PH-BO,Balilihan
+PH-BO,Batuan
+PH-BO,Bilar
+PH-BO,Buenavista
+PH-BO,Calape
+PH-BO,Candijay
+PH-BO,Carmen
+PH-BO,Catigbian
+PH-BO,Clarin
+PH-BO,Corella
+PH-BO,Cortes
+PH-BO,Dagohoy
+PH-BO,Danao
+PH-BO,Dauis
+PH-BO,Dimiao
+PH-BO,Duero
+PH-BO,Garcia Hernandez
+PH-BO,Guindulman
+PH-BO,Inabanga
+PH-BO,Jagna
+PH-BO,Getafe
+PH-BO,Lila
+PH-BO,Loay
+PH-BO,Loboc
+PH-BO,Loon
+PH-BO,Mabini
+PH-BO,Maribojoc
+PH-BO,Panglao
+PH-BO,Pilar
+PH-BO,Pres. Carlos P. Garcia (Pitogo)
+PH-BO,Sagbayan (Borja)
+PH-BO,San Isidro
+PH-BO,San Miguel
+PH-BO,Sevilla
+PH-BO,Sierra Bullones
+PH-BO,Sikatuna
+PH-BO,Tagbilaran
+PH-BO,Talibon
+PH-BO,Trinidad
+PH-BO,Tubigon
+PH-BO,Ubay
+PH-BO,Valencia
+PH-BO,Bien Unido
+PH-CB,Alcoy
+PH-CB,Alegria
+PH-CB,Aloguinsan
+PH-CB,Argao
+PH-CB,Asturias
+PH-CB,Badian
+PH-CB,Balamban
+PH-CB,Bantayan
+PH-CB,Barili
+PH-CB,Bogo
+PH-CB,Boljoon
+PH-CB,Borbon
+PH-CB,Carcar
+PH-CB,Carmen
+PH-CB,Catmon
+PH-CB,Cebu
+PH-CB,Compostela
+PH-CB,Consolacion
+PH-CB,Cordoba
+PH-CB,Daanbantayan
+PH-CB,Dalaguete
+PH-CB,Danao
+PH-CB,Dumanjug
+PH-CB,Ginatilan
+PH-CB,Lapu-Lapu (Opon)
+PH-CB,Liloan
+PH-CB,Madridejos
+PH-CB,Malabuyoc
+PH-CB,Mandaue
+PH-CB,Medellin
+PH-CB,Minglanilla
+PH-CB,Moalboal
+PH-CB,Naga
+PH-CB,Oslob
+PH-CB,Pilar
+PH-CB,Pinamungahan
+PH-CB,Poro
+PH-CB,Ronda
+PH-CB,Samboan
+PH-CB,San Fernando
+PH-CB,San Francisco
+PH-CB,San Remigio
+PH-CB,Santa Fe
+PH-CB,Santander
+PH-CB,Sibonga
+PH-CB,Sogod
+PH-CB,Tabogon
+PH-CB,Tabuelan
+PH-CB,Talisay
+PH-CB,Toledo
+PH-CB,Tuburan
+PH-CB,Tudela
+PH-NR,Ayungon
+PH-NR,Bacong
+PH-NR,Bais
+PH-NR,Basay
+PH-NR,Bayawan (Tulong)
+PH-NR,Bindoy (Payabon)
+PH-NR,Canlaon
+PH-NR,Dauin
+PH-NR,Dumaguete
+PH-NR,Guihulngan
+PH-NR,Jimalalud
+PH-NR,La Libertad
+PH-NR,Mabinay
+PH-NR,Manjuyod
+PH-NR,Pamplona
+PH-NR,San Jose
+PH-NR,Santa Catalina
+PH-NR,Siaton
+PH-NR,Sibulan
+PH-NR,Tanjay
+PH-NR,Tayasan
+PH-NR,Valencia (Luzurriaga)
+PH-NR,Vallehermoso
+PH-NR,Zamboanguita
+PH-SQ,Larena
+PH-SQ,Lazi
+PH-SQ,Maria
+PH-SQ,San Juan
+PH-SQ,Siquijor
+PH-BO,Alburquerque
+PH-CB,Alcantara
+PH-NR,Amlan (Ayuquitan)
+PH-SQ,Enrique Villanueva
+PH-BI,Biliran
+PH-BI,Cabucgayan
+PH-BI,Caibiran
+PH-BI,Culaba
+PH-BI,Kawayan
+PH-BI,Maripipi
+PH-BI,Naval
+PH-ES,Balangiga
+PH-ES,Balangkayan
+PH-ES,Borongan
+PH-ES,Can-Avid
+PH-ES,Dolores
+PH-ES,General Macarthur
+PH-ES,Giporlos
+PH-ES,Guiuan
+PH-ES,Hernani
+PH-ES,Jipapad
+PH-ES,Lawaan
+PH-ES,Llorente
+PH-ES,Maslog
+PH-ES,Maydolong
+PH-ES,Mercedes
+PH-ES,Oras
+PH-ES,Quinapondan
+PH-ES,Salcedo
+PH-ES,San Julian
+PH-ES,San Policarpo
+PH-ES,Sulat
+PH-ES,Taft
+PH-LE,Alangalang
+PH-LE,Albuera
+PH-LE,Babatngon
+PH-LE,Barugo
+PH-LE,Bato
+PH-LE,Baybay
+PH-LE,Burauen
+PH-LE,Calubian
+PH-LE,Capoocan
+PH-LE,Carigara
+PH-LE,Dagami
+PH-LE,Dulag
+PH-LE,Hilongos
+PH-LE,Hindang
+PH-LE,Inopacan
+PH-LE,Isabel
+PH-LE,Jaro
+PH-LE,Javier (Bugho)
+PH-LE,Julita
+PH-LE,Kananga
+PH-LE,La Paz
+PH-LE,Leyte
+PH-LE,Macarthur
+PH-LE,Mahaplag
+PH-LE,Matag-Ob
+PH-LE,Matalom
+PH-LE,Mayorga
+PH-LE,Merida
+PH-LE,Ormoc
+PH-LE,Palo
+PH-LE,Palompon
+PH-LE,Pastrana
+PH-LE,San Isidro
+PH-LE,San Miguel
+PH-LE,Santa Fe
+PH-LE,Tabango
+PH-LE,Tabontabon
+PH-LE,Tacloban
+PH-LE,Tanauan
+PH-LE,Tolosa
+PH-LE,Tunga
+PH-LE,Villaba
+PH-NS,Biri
+PH-NS,Bobon
+PH-NS,Capul
+PH-NS,Catarman
+PH-NS,Catubig
+PH-NS,Gamay
+PH-NS,Laoang
+PH-NS,Lapinig
+PH-NS,Las Navas
+PH-NS,Lavezares
+PH-NS,Mapanas
+PH-NS,Mondragon
+PH-NS,Palapag
+PH-NS,Pambujan
+PH-NS,Rosario
+PH-NS,San Antonio
+PH-NS,San Isidro
+PH-NS,San Jose
+PH-NS,San Roque
+PH-NS,San Vicente
+PH-NS,Silvino Lobos
+PH-NS,Victoria
+PH-NS,Lope De Vega
+PH-SM,Basey
+PH-SM,Calbayog
+PH-SM,Calbiga
+PH-SM,Catbalogan
+PH-SM,Daram
+PH-SM,Gandara
+PH-SM,Hinabangan
+PH-SM,Jiabong
+PH-SM,Marabut
+PH-SM,Matuguinao
+PH-SM,Motiong
+PH-SM,Pinabacdao
+PH-SM,San Jose De Buan
+PH-SM,San Sebastian
+PH-SM,Santa Margarita
+PH-SM,Santa Rita
+PH-SM,Santo Nino
+PH-SM,Talalora
+PH-SM,Tarangnan
+PH-SM,Villareal
+PH-SM,Paranas (Wright)
+PH-SM,Zumarraga
+PH-SM,Tagapul-An
+PH-SM,San Jorge
+PH-SM,Pagsanghan
+PH-SL,Bontoc
+PH-SL,Hinunangan
+PH-SL,Hinundayan
+PH-SL,Libagon
+PH-SL,Liloan
+PH-SL,Maasin
+PH-SL,Macrohon
+PH-SL,Malitbog
+PH-SL,Padre Burgos
+PH-SL,Pintuyan
+PH-SL,Saint Bernard
+PH-SL,San Francisco
+PH-SL,San Juan (Cabalian)
+PH-SL,San Ricardo
+PH-SL,Silago
+PH-SL,Sogod
+PH-SL,Tomas Oppus
+PH-SL,Limasawa
+PH-BI,Almeria
+PH-ES,Arteche
+PH-LE,Abuyog
+PH-NS,Allen
+PH-SM,Almagro
+PH-SL,Anahawan
+PH-ZN,Dipolog
+PH-ZN,Katipunan
+PH-ZN,La Libertad
+PH-ZN,Labason
+PH-ZN,Liloy
+PH-ZN,Manukan
+PH-ZN,Mutia
+PH-ZN,Pinan (New Pinan)
+PH-ZN,Polanco
+PH-ZN,Pres. Manuel A. Roxas
+PH-ZN,Rizal
+PH-ZN,Salug
+PH-ZN,Sergio Osmena Sr.
+PH-ZN,Siayan
+PH-ZN,Sibuco
+PH-ZN,Sibutad
+PH-ZN,Sindangan
+PH-ZN,Siocon
+PH-ZN,Sirawai
+PH-ZN,Tampilisan
+PH-ZN,Jose Dalman (Ponot)
+PH-ZN,Gutalac
+PH-ZN,Baliguian
+PH-ZN,Godod
+PH-ZN,Bacungan (Leon T. Postigo)
+PH-ZN,Kalawit
+PH-ZS,Bayog
+PH-ZS,Dimataling
+PH-ZS,Dinas
+PH-ZS,Dumalinao
+PH-ZS,Dumingag
+PH-ZS,Kumalarang
+PH-ZS,Labangan
+PH-ZS,Lapuyan
+PH-ZS,Mahayag
+PH-ZS,Margosatubig
+PH-ZS,Midsalip
+PH-ZS,Molave
+PH-ZS,Pagadian
+PH-ZS,Ramon Magsaysay (Liargo)
+PH-ZS,San Miguel
+PH-ZS,San Pablo
+PH-ZS,Tabina
+PH-ZS,Tambulig
+PH-ZS,Tukuran
+PH-ZS,Zamboanga
+PH-ZS,Lakewood
+PH-ZS,Josefina
+PH-ZS,Pitogo
+PH-ZS,Sominot (Don Mariano Marcos)
+PH-ZS,Vincenzo A. Sagun
+PH-ZS,Guipos
+PH-ZS,Tigbao
+PH-ZY,Buug
+PH-ZY,Diplahan
+PH-ZY,Imelda
+PH-ZY,Ipil
+PH-ZY,Kabasalan
+PH-ZY,Mabuhay
+PH-ZY,Malangas
+PH-ZY,Naga
+PH-ZY,Olutanga
+PH-ZY,Payao
+PH-ZY,Roseller Lim
+PH-ZY,Siay
+PH-ZY,Talusan
+PH-ZY,Titay
+PH-ZY,Tungawan
+PH-BS,Isabela
+PH-ZN,Dapitan
+PH-ZS,Aurora
+PH-ZY,Alicia
+PH-BK,Damulog
+PH-BK,Dangcagan
+PH-BK,Don Carlos
+PH-BK,Impasug-Ong
+PH-BK,Kadingilan
+PH-BK,Kalilangan
+PH-BK,Kibawe
+PH-BK,Kitaotao
+PH-BK,Lantapan
+PH-BK,Libona
+PH-BK,Malaybalay
+PH-BK,Malitbog
+PH-BK,Manolo Fortich
+PH-BK,Maramag
+PH-BK,Pangantucan
+PH-BK,Quezon
+PH-BK,San Fernando
+PH-BK,Sumilao
+PH-BK,Talakag
+PH-BK,Valencia
+PH-BK,Cabanglasan
+PH-CM,Guinsiliban
+PH-CM,Mahinog
+PH-CM,Mambajao
+PH-CM,Sagay
+PH-LN,Baloi
+PH-LN,Baroy
+PH-LN,Iligan
+PH-LN,Kapatagan
+PH-LN,Sultan Naga Dimaporo (Karomatan)
+PH-LN,Kauswagan
+PH-LN,Kolambugan
+PH-LN,Lala
+PH-LN,Linamon
+PH-LN,Magsaysay
+PH-LN,Maigo
+PH-LN,Matungao
+PH-LN,Munai
+PH-LN,Nunungan
+PH-LN,Pantao Ragat
+PH-LN,Poona Piagapo
+PH-LN,Salvador
+PH-LN,Sapad
+PH-LN,Tagoloan
+PH-LN,Tangcal
+PH-LN,Tubod
+PH-LN,Pantar
+PH-MD,Baliangao
+PH-MD,Bonifacio
+PH-MD,Calamba
+PH-MD,Clarin
+PH-MD,Concepcion
+PH-MD,Jimenez
+PH-MD,Lopez Jaena
+PH-MD,Oroquieta
+PH-MD,Ozamis
+PH-MD,Panaon
+PH-MD,Plaridel
+PH-MD,Sapang Dalaga
+PH-MD,Sinacaban
+PH-MD,Tangub
+PH-MD,Tudela
+PH-MD,Don Victoriano Chiongbian  (Don Mariano Marcos)
+PH-MN,Balingasag
+PH-MN,Balingoan
+PH-MN,Binuangan
+PH-MN,Cagayan De Oro
+PH-MN,Claveria
+PH-MN,El Salvador
+PH-MN,Gingoog
+PH-MN,Gitagum
+PH-MN,Initao
+PH-MN,Jasaan
+PH-MN,Kinoguitan
+PH-MN,Lagonglong
+PH-MN,Laguindingan
+PH-MN,Libertad
+PH-MN,Lugait
+PH-MN,Magsaysay (Linugos)
+PH-MN,Manticao
+PH-MN,Medina
+PH-MN,Naawan
+PH-MN,Opol
+PH-MN,Salay
+PH-MN,Sugbongcogon
+PH-MN,Tagoloan
+PH-MN,Talisayan
+PH-MN,Villanueva
+PH-BK,Baungon
+PH-CM,Catarman
+PH-LN,Bacolod
+PH-MD,Aloran
+PH-MN,Alubijid
+PH-CL,Laak (San Vicente)
+PH-CL,Mabini (Dona Alicia)
+PH-CL,Maco
+PH-CL,Maragusan (San Mariano)
+PH-CL,Mawab
+PH-CL,Monkayo
+PH-CL,Montevista
+PH-CL,Nabunturan
+PH-CL,New Bataan
+PH-CL,Pantukan
+PH-DV,Carmen
+PH-DV,Kapalong
+PH-DV,New Corella
+PH-DV,Panabo
+PH-DV,Island Garden Samal
+PH-DV,Santo Tomas
+PH-DV,Tagum
+PH-DV,Talaingod
+PH-DV,Braulio E. Dujali
+PH-DV,San Isidro
+PH-DR,Davao
+PH-DR,Digos
+PH-DR,Hagonoy
+PH-DR,Jose Abad Santos (Trinidad)
+PH-DR,Kiblawan
+PH-DR,Magsaysay
+PH-DR,Malalag
+PH-DR,Malita
+PH-DR,Matanao
+PH-DR,Padada
+PH-DR,Santa Cruz
+PH-DR,Santa Maria
+PH-DR,Sulop
+PH-DR,Sarangani
+PH-DR,Don Marcelino
+PH-DO,Banaybanay
+PH-DO,Boston
+PH-DO,Caraga
+PH-DO,Cateel
+PH-DO,Governor Generoso
+PH-DO,Lupon
+PH-DO,Manay
+PH-DO,Mati
+PH-DO,San Isidro
+PH-DO,Tarragona
+PH-CL,Compostela
+PH-DV,Asuncion (Saug)
+PH-DR,Bansalan
+PH-DO,Baganga
+PH-NC,Carmen
+PH-NC,Kabacan
+PH-NC,Kidapawan
+PH-NC,Libungan
+PH-NC,Magpet
+PH-NC,Makilala
+PH-NC,Matalam
+PH-NC,Midsayap
+PH-NC,Pigkawayan
+PH-NC,Pikit
+PH-NC,President Roxas
+PH-NC,Tulunan
+PH-NC,Antipas
+PH-NC,Banisilan
+PH-NC,Aleosan
+PH-NC,Arakan
+PH-SG,Glan
+PH-SG,Kiamba
+PH-SG,Maasim
+PH-SG,Maitum
+PH-SG,Malapatan
+PH-SG,Malungon
+PH-SC,General Santos (Dadiangas)
+PH-SC,Koronadal
+PH-SC,Norala
+PH-SC,Polomolok
+PH-SC,Surallah
+PH-SC,Tampakan
+PH-SC,Tantangan
+PH-SC,Tupi
+PH-SC,Santo Nino
+PH-SC,Lake Sebu
+PH-SK,Columbio
+PH-SK,Esperanza
+PH-SK,Isulan
+PH-SK,Kalamansig
+PH-SK,Lebak
+PH-SK,Lutayan
+PH-SK,Lambayong (Mariano Marcos)
+PH-SK,Palimbang
+PH-SK,President Quirino
+PH-SK,Tacurong
+PH-SK,Sen. Ninoy Aquino
+PH-NC,Alamada
+PH-MG,Cotabato
+PH-SG,Alabel
+PH-SC,Banga
+PH-SK,Bagumbayan
+PH-AN,Butuan
+PH-AN,Cabadbaran
+PH-AN,Carmen
+PH-AN,Jabonga
+PH-AN,Kitcharao
+PH-AN,Las Nieves
+PH-AN,Magallanes
+PH-AN,Nasipit
+PH-AN,Santiago
+PH-AN,Tubay
+PH-AN,Remedios T. Romualdez
+PH-AS,Bunawan
+PH-AS,Esperanza
+PH-AS,La Paz
+PH-AS,Loreto
+PH-AS,Prosperidad
+PH-AS,Rosario
+PH-AS,San Francisco
+PH-AS,San Luis
+PH-AS,Santa Josefa
+PH-AS,Talacogon
+PH-AS,Trento
+PH-AS,Veruela
+PH-AS,Sibagat
+PH-DI,Cagdianao
+PH-DI,Dinagat
+PH-DI,Libjo (Albor)
+PH-DI,Loreto
+PH-DI,San Jose
+PH-DI,Tubajon
+PH-ST,Bacuag
+PH-ST,Burgos
+PH-ST,Claver
+PH-ST,Dapa
+PH-ST,Del Carmen
+PH-ST,General Luna
+PH-ST,Gigaquit
+PH-ST,Mainit
+PH-ST,Malimono
+PH-ST,Pilar
+PH-ST,Placer
+PH-ST,San Benito
+PH-ST,San Francisco (Anao-Aon)
+PH-ST,San Isidro
+PH-ST,Santa Monica (Sapao)
+PH-ST,Sison
+PH-ST,Socorro
+PH-ST,Surigao
+PH-ST,Tagana-An
+PH-ST,Tubod
+PH-SS,Bayabas
+PH-SS,Bislig
+PH-SS,Cagwait
+PH-SS,Cantilan
+PH-SS,Carmen
+PH-SS,Carrascal
+PH-SS,Cortes
+PH-SS,Hinatuan
+PH-SS,Lanuza
+PH-SS,Lianga
+PH-SS,Lingig
+PH-SS,Madrid
+PH-SS,Marihatag
+PH-SS,San Agustin
+PH-SS,San Miguel
+PH-SS,Tagbina
+PH-SS,Tago
+PH-SS,Tandag
+PH-AN,Buenavista
+PH-AS,Bayugan
+PH-DI,Basilisa (Rizal)
+PH-ST,Alegria
+PH-SS,Barobo
+PH-BS,Lantawan
+PH-BS,Maluso
+PH-BS,Sumisip
+PH-BS,Tipo-Tipo
+PH-BS,Tuburan
+PH-BS,Akbar
+PH-BS,Al-Barka
+PH-BS,Hadji Mohammad Ajul
+PH-BS,Ungkaya Pukan
+PH-BS,Hadji Muhtamad
+PH-BS,Tabuan-Lasa
+PH-LS,Balabagan
+PH-LS,Balindong (Watu)
+PH-LS,Bayang
+PH-LS,Binidayan
+PH-LS,Bubong
+PH-LS,Butig
+PH-LS,Ganassi
+PH-LS,Kapai
+PH-LS,Lumba-Bayabao (Maguing)
+PH-LS,Lumbatan
+PH-LS,Madalum
+PH-LS,Madamba
+PH-LS,Malabang
+PH-LS,Marantao
+PH-LS,Marawi
+PH-LS,Masiu
+PH-LS,Mulondo
+PH-LS,Pagayawan (Tatarikan)
+PH-LS,Piagapo
+PH-LS,Poona Bayabao (Gata)
+PH-LS,Pualas
+PH-LS,Ditsaan-Ramain
+PH-LS,Saguiaran
+PH-LS,Tamparan
+PH-LS,Taraka
+PH-LS,Tubaran
+PH-LS,Tugaya
+PH-LS,Wao
+PH-LS,Marogong
+PH-LS,Calanogas
+PH-LS,Buadiposo-Buntong
+PH-LS,Maguing
+PH-LS,Picong (Sultan Gumander)
+PH-LS,Lumbayanague
+PH-LS,Bumbaran
+PH-LS,Tagoloan Ii
+PH-LS,Kapatagan
+PH-LS,Sultan Dumalondong
+PH-LS,Lumbaca-Unayan
+PH-MG,Buldon
+PH-MG,Buluan
+PH-MG,Datu Paglas
+PH-MG,Datu Piang
+PH-MG,Datu Odin Sinsuat (Dinaig)
+PH-MG,Shariff Aguak (Maganoy)
+PH-MG,Matanog
+PH-MG,Pagalungan
+PH-MG,Parang
+PH-MG,Sultan Kudarat (Nuling)
+PH-MG,Sultan Sa Barongis (Lambayong)
+PH-MG,Kabuntalan (Tumbao)
+PH-MG,Upi
+PH-MG,Talayan
+PH-MG,South Upi
+PH-MG,Barira
+PH-MG,Gen. S. K. Pendatun
+PH-MG,Mamasapano
+PH-MG,Talitay
+PH-MG,Pagagawan
+PH-MG,Paglat
+PH-MG,Sultan Mastura
+PH-MG,Guindulungan
+PH-MG,Datu Saudi-Ampatuan
+PH-MG,Datu Unsay
+PH-MG,Datu Abdullah Sangki
+PH-MG,Rajah Buayan
+PH-MG,Datu Blah T. Sinsuat
+PH-MG,Datu Anggal Midtimbang
+PH-MG,Mangudadatu
+PH-MG,Pandag
+PH-MG,Northern Kabuntalan
+PH-MG,Datu Hoffer Ampatuan
+PH-MG,Datu Salibo
+PH-MG,Shariff Saydona Mustapha
+PH-SU,Jolo
+PH-SU,Kalingalan Caluang
+PH-SU,Luuk
+PH-SU,Maimbung
+PH-SU,Hadji Panglima Tahil (Marunggas)
+PH-SU,Old Panamao
+PH-SU,Pangutaran
+PH-SU,Parang
+PH-SU,Pata
+PH-SU,Patikul
+PH-SU,Siasi
+PH-SU,Talipao
+PH-SU,Tapul
+PH-SU,Tongkil
+PH-SU,Panglima Estino (New Panamao)
+PH-SU,Lugus
+PH-SU,Pandami
+PH-SU,Omar
+PH-TT,Bongao
+PH-TT,Mapun (Cagayan De Tawi-Tawi)
+PH-TT,Simunul
+PH-TT,Sitangkai
+PH-TT,South Ubian
+PH-TT,Tandubas
+PH-TT,Turtle Islands
+PH-TT,Languyan
+PH-TT,Sapa-Sapa
+PH-TT,Sibutu
+PH-BS,Lamitan
+PH-LS,Bacolod-Kalawi (Bacolod Grande)
+PH-MG,Ampatuan
+PH-SU,Indanan
+PH-TT,Panglima Sugala (Balimbing)
+PH-TT,Panglima Sugala (Balimbing)

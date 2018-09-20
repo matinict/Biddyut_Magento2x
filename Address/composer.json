@@ -1,0 +1,15 @@
+{
+    "name": "sslwireless/module-address",
+    "description": "",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Sslwireless\\Address\\": ""
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Sslwireless_Address::address" title="Address" translate="title" module="Sslwireless_Address" sortOrder="64" parent="Magento_Customer::customer" resource="Sslwireless_Address::address"/>
+        <add id="Sslwireless_Address::region" title="Manage Regions" module="Sslwireless_Address" sortOrder="65" parent="Sslwireless_Address::address" action="sslwireless_address/region" resource="Sslwireless_Address::region"/>
+        <add id="Sslwireless_Address::city" title="Manage Cities" module="Sslwireless_Address" sortOrder="66" parent="Sslwireless_Address::address" action="sslwireless_address/city" resource="Sslwireless_Address::city"/>
+        <add id="Sslwireless_Address::township" title="Manage Township/Zone" module="Sslwireless_Address" sortOrder="67" parent="Sslwireless_Address::address" action="sslwireless_address/township" resource="Sslwireless_Address::township"/>
+        <add id="Sslwireless_Address::import_address" title="Import Address" module="Sslwireless_Address" sortOrder="70" parent="Sslwireless_Address::address" action="sslwireless_address/importaddress" resource="Sslwireless_Address::import_address"/>
+    </menu>
+</config>

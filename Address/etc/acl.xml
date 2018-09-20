@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+    <acl>
+        <resources>
+            <resource id="Magento_Backend::admin">
+                <resource id="Magento_Customer::customer" title="Address Manager">
+                    <resource id="Sslwireless_Address::address" title="Regions Manager">
+                        <resource id="Sslwireless_Address::region" title="Regions Manager">
+                            <resource id="Sslwireless_Address::region_create" title="Create"/>
+                            <resource id="Sslwireless_Address::region_edit" title="Edit" />
+                            <resource id="Sslwireless_Address::region_delete" title="Delete"/>
+                        </resource>
+                        <resource id="Sslwireless_Address::city" title="Cities Manager">
+                            <resource id="Sslwireless_Address::city_create" title="Create"/>
+                            <resource id="Sslwireless_Address::city_edit" title="Edit" />
+                            <resource id="Sslwireless_Address::city_delete" title="Delete"/>
+                        </resource>
+                        <resource id="Sslwireless_Address::township" title="Township Manager">
+                            <resource id="Sslwireless_Address::township_create" title="Create"/>
+                            <resource id="Sslwireless_Address::township_edit" title="Edit" />
+                            <resource id="Sslwireless_Address::township_delete" title="Delete"/>
+                        </resource>
+                        <resource id="Sslwireless_Address::import_address" title="Import Address"/>
+                    </resource>
+                </resource>
+            </resource>
+        </resources>
+    </acl>
+</config>
