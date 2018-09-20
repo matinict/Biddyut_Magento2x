@@ -18,6 +18,8 @@ Tested: Magento 2.2.3
 install:
 =======================================
 
+-- Download Code and past to app/code/Sslwireless Directory via FTP.
+
 -- More Details please check doc folder
 
 -- magento2-Biddyut- Sslwireless_Biddyut
