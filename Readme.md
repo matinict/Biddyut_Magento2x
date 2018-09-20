@@ -35,6 +35,8 @@ install:
 
 
 Refarance:
+=======================================
+
 
 https://cedcommerce.com/magento-2-module-creator/shipping-module
 
@@ -71,7 +73,7 @@ https://github.com/sohelrana09/module-auto-invoice-shipment
 
 Development Team:
 =======================================
- * @Biddyut/iPost(A technology driven Logistics & delivery company Bangladesh/Iraqi Kurdistan) Magento 2.x
+ * @Biddyut/iPost(A technology driven Logistics & delivery company Bangladesh/) Magento 2.x
  * @Package       Biddyut Limited
  * @Developer     Abdul Matin <matinict@gmail.com>
  * @Author        Sslwireless(https://github.com/sslcommerz)
