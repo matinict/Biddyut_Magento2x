@@ -149,18 +149,17 @@ class Biddyut extends \Magento\Shipping\Model\Carrier\AbstractCarrier implements
         $length = '0';
         $weight = '5';
         //getBiddyut($storeid,$origin,$destination,$category,$quantity,$total,$width,$height,$length,$weight)
-         \Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)
-         ->debug('CheckingCharge==>St->'.$storeid.' Ori->'.$origin.' Dest->'.$destination.' Cat->'.$category.' Qty->'.$quantity.' Price->'.$grandTotal.' Width->'.$width.' Height->'.$height.' Length->'.$length.' Weight->'.$weight );
+         //\Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)
+        // ->debug('CheckingCharge==>St->'.$storeid.' Ori->'.$origin.' Dest->'.$destination.' Cat->'.$category.' Qty->'.$quantity.' Price->'.$grandTotal.' Width->'.$width.' Height->'.$height.' Length->'.$length.' Weight->'.$weight );
         $shippingPrice = $this->_apiData->getBiddyut($storeid,$origin,$destination,$category,$quantity,$grandTotal,$width,$height,$length,$weight);
           //getBiddyut(method, $shippingPrice, title)
-         \Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)->debug('ShippingPrice-->'.$shippingPrice );
+        // \Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)->debug('ShippingPrice-->'.$shippingPrice );
 
-         if ($shippingPrice !== false && $shippingPrice !==0 ) {
+         // if ($shippingPrice !== false && $shippingPrice !==0 ) {
            $method = $this->generateMethods($method, $shippingPrice, $courier);
            $result->append($method);
-           //\Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)->debug('Fucking Price== '.json_encode($fuckData));
 
-         }
+         // }
       //  $method = $this->generateMethods($method, $shippingPrice, $courier);
       //  $result->append($method);
       //  $method->setPrice($shippingPrice);
