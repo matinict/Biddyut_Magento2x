@@ -18,6 +18,12 @@ Tested: Magento 2.2.3
 Installation
 -------------
 
+:warning: _Please note that you can only install the extension using composer._
+
+* Backup your store database and web directory
+* Open a terminal and move to Magento root directory
+* Run these commands in your terminal
+
 
 **Using Zip**
 * Download the [Zip File](https://github.com/sslcommerz/Biddyut_Magento2x/archive/master.zip)
