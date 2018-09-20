@@ -25,7 +25,7 @@ Installation
 
 After installation by either means, enable the extension by running following commands (again from root of Magento2 installation):
 ```
- 
+
 
 -- Download Code and past to app/code/Sslwireless/ Directory via FTP.
 
@@ -64,7 +64,7 @@ After installation by either means, enable the extension by running following co
 
 
 Refarance:
-=======================================
+-------------
 
 https://www.magestore.com/magento-2-tutorial/magento-2-modules/
 
@@ -102,11 +102,11 @@ https://github.com/sohelrana09/module-auto-invoice-shipment
 
 
 Development Team:
-=======================================
+-------------
  * @Biddyut/iPost(A technology driven Logistics & delivery company Bangladesh/) Magento 2.x
  * @Package       Biddyut Limited
  * @Developer     Abdul Matin <matinict@gmail.com>
  * @Author        Sslwireless(https://github.com/sslcommerz)
- * @Dependency    SSLWireless Address(https://github.com/sslcommerz)
+ * @Vendor    SSLWireless Address(https://github.com/sslcommerz)
 
 ---
