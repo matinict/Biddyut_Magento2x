@@ -40,20 +40,35 @@ install:
 
 Refarance:
 https://cedcommerce.com/magento-2-module-creator/shipping-module
+
 https://github.com/cedcommerce/magento-2-sample-module
+
 https://ranasohel.me/2015/11/28/how-to-add-custom-field-to-shipping-address-form-in-magento-2-onepage-checkout/
+
 https://devdocs.magento.com/guides/v2.2/extension-dev-guide/events-and-observers.html
+
 https://www.mageplaza.com/magento-2-module-development/magento-2-events.html
+
 https://marketplace.magento.com/maurisource-shipstation-liverate.html
+
 https://www.magecloud.net/marketplace/extension/shipping-agent-for-magento/
+
 https://www.iwdagency.com/extensions/order-manager-m2.html
+
 https://magehit.com/blog/how-to-use-rest-api-in-magento-2/
+
 http://www.webnexs.com/blog/kb/get-value-custom-attribute-magento-2-rest-api/
+
 https://github.com/baddwin/magento2-ongkir
+
 https://github.com/netresearch/dhl-module-shipping-m2
+
 https://github.com/sohelrana09/magento2-module-checkoutadditionalfield
+
 https://github.com/vincent2090311/magento2-address
+
 https://github.com/sohelrana09/module-auto-invoice-shipment
+
 
 
 
