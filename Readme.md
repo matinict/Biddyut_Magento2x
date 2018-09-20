@@ -61,9 +61,13 @@ After installation by either means, enable the extension by running following co
  -Shipping Charge Calculator via API
  -Dependency module  SSLWireless Address(https://github.com/sslcommerz)
 
+## Documentation
+
+https://github.com/sslcommerz/Biddyut_Magento2x/blob/master/doc/
 
 
-Refarance:
+
+## Refarance:
 -------------
 
 https://www.magestore.com/magento-2-tutorial/magento-2-modules/
