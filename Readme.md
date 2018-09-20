@@ -15,8 +15,17 @@ Goals:
 Tested: Magento 2.2.3
 
 
-install:
-=======================================
+Installation
+-------------
+
+
+**Using Zip**
+* Download the [Zip File](https://github.com/sslcommerz/Biddyut_Magento2x/archive/master.zip)
+* Extract & upload the files to `/path/to/magento2/app/code/Sslwireless/`
+
+After installation by either means, enable the extension by running following commands (again from root of Magento2 installation):
+```
+ 
 
 -- Download Code and past to app/code/Sslwireless/ Directory via FTP.
 
