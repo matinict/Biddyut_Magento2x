@@ -19,13 +19,21 @@ install:
 =======================================
 
 -- Download Code and past to app/code/Sslwireless/ Directory via FTP.
+
       Run Command as below:
-      //php bin/magento setup:upgrade --keep-generated 	
+
+      //php bin/magento setup:upgrade --keep-generated
+
       php bin/magento setup:upgrade  
+
       php bin/magento indexer:reindex
+
       php bin/magento cache:flush
+
       php bin/magento cache:clean
+
       sudo chmod 777 -R generated/*  var/* pub/*
+      
       rm var/cache/*  generated/code/* var/view_preprocessed/* var/page_cache/*  pub/static/frontend/* pub/static/adminhtml/* -R
 
 -- More Details please check doc folder
