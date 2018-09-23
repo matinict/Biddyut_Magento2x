@@ -69,10 +69,11 @@ After installation by either means, enable the extension by running following co
  -Dependency module  SSLWireless Address(https://github.com/sslcommerz)
 
 ## Documentation
+-------------
 
 https://github.com/sslcommerz/Biddyut_Magento2x/blob/master/doc/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X009Dm2xrlQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://youtu.be/X009Dm2xrlQ
 
 
 
