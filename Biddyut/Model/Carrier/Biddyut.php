@@ -114,7 +114,7 @@ class Biddyut extends \Magento\Shipping\Model\Carrier\AbstractCarrier implements
             else {
               # code...
               $data = json_decode(file_get_contents('php://input'), true);
-              $zone = $data['address']['custom_attributes']['township'];
+              $zone = @$data['address']['custom_attributes']['township'];
               $destination=$zone.','.$city; //'Demo Zone 2,Al-Rutba';
             }
 
