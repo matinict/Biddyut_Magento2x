@@ -12,7 +12,7 @@ Goals:
 - Logistics Collect Product From Pickup Location & Delivery To Destination/Customer .
 - Customer Address Customized as Country->Region/State/Division->City->Township/Zone
 
-Tested: Magento 2.2.3
+ 
 
 
 Installation
