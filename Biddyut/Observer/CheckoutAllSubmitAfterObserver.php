@@ -247,7 +247,7 @@ class CheckoutAllSubmitAfterObserver implements ObserverInterface {
        foreach($items as $item) {
            $weight += ($item->getWeight() * $item->getQty()) ;
        }
-       return $weight;
+        return $weight/1000; //Gm to Kg
      }
 
 
