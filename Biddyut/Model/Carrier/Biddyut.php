@@ -206,7 +206,7 @@ class Biddyut extends \Magento\Shipping\Model\Carrier\AbstractCarrier implements
             $weight += ($item->getWeight() * $item->getQty()) ;
         }
 
-        return $weight;
+        return $weight/1000; //Gm to Kg
       }
 
 
