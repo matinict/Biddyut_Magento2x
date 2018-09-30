@@ -36,7 +36,8 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\City\Collectio
         $eventObject,
         $resourceModel,
         $model = \Magento\Framework\View\Element\UiComponent\DataProvider\Document::class,
-        $connection = null,
+        //$connection = null,
+          \Magento\Framework\DB\Adapter\AdapterInterface  $connection = null,
         \Magento\Framework\Model\ResourceModel\Db\AbstractDb $resource = null
     ) {
         parent::__construct($entityFactory, $logger, $fetchStrategy, $eventManager, $connection, $resource);
