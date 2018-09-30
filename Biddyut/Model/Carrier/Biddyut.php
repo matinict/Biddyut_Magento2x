@@ -147,7 +147,9 @@ class Biddyut extends \Magento\Shipping\Model\Carrier\AbstractCarrier implements
         $width = '0';
         $height = '0';
         $length = '0';
-        $weight = '5';
+        //$weight = '5';        
+        $weight =$this->getTotalWeight();
+       // \Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)->debug('weight-->'.$weight );
         //getBiddyut($storeid,$origin,$destination,$category,$quantity,$total,$width,$height,$length,$weight)
          //\Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)
         // ->debug('CheckingCharge==>St->'.$storeid.' Ori->'.$origin.' Dest->'.$destination.' Cat->'.$category.' Qty->'.$quantity.' Price->'.$grandTotal.' Width->'.$width.' Height->'.$height.' Length->'.$length.' Weight->'.$weight );
@@ -196,6 +198,16 @@ class Biddyut extends \Magento\Shipping\Model\Carrier\AbstractCarrier implements
         $method->setCost($price);
         return $method;
     }
+    
+    public function getTotalWeight(){
+        $items = $this->cart->getQuote()->getAllItems();
+        $weight = 0;
+        foreach($items as $item) {
+            $weight += ($item->getWeight() * $item->getQty()) ;
+        }
+
+        return $weight;
+      }
 
 
 }
