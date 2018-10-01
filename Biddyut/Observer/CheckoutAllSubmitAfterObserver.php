@@ -131,7 +131,8 @@ class CheckoutAllSubmitAfterObserver implements ObserverInterface {
              // \Magento\Framework\App\ObjectManager::getInstance()->get(\Psr\Log\LoggerInterface::class)->debug('Final Weight-->'.$weight );
 
               //Extra SDO_DAS_DataObject
-              $product_titles="BulkProductPack-".$orderid;
+              //$product_titles="BulkProductPack-".$orderid;
+              $product_titles=$this->getProductName();
               $api_token=$this->getApiToken($storeid,$passwd,$key);
 
               //Api Call Here For Order
@@ -248,6 +249,22 @@ class CheckoutAllSubmitAfterObserver implements ObserverInterface {
            $weight += ($item->getWeight() * $item->getQty()) ;
        }
         return $weight/1000; //Gm to Kg
+     }
+    public function getProductName(){
+       $productInfo = $this->cart->getQuote()->getItemsCollection();
+       $name='';
+       $i=0;
+       foreach ($productInfo as $item){
+          $i++;           
+           if ($i>1) {
+             $name .= ', ' . $i.".".$item->getName();
+           }
+           else {
+               $name .= $i.".".$item->getName();
+           }
+       }
+
+       return $name;
      }
 
 
