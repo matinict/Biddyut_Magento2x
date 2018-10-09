@@ -1,8 +1,17 @@
 <?php
+/**
+ * Sslwireless Address(Customer Information For Logistics & delivery Solution Bangladesh) Magento 2.x
+ *
+ * @Package    Sslwireless Address
+ * @Developer  Abdul Matin <matinict@gmail.com>
+ * @Author     Sslwireless(https://github.com/sslcommerz/Biddyut_Magento2x/)
+ */
+
 
 namespace Sslwireless\Address\Model\ResourceModel\Township\Grid;
 
-class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Collection implements \Magento\Framework\Api\Search\SearchResultInterface
+class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Collection implements
+    \Magento\Framework\Api\Search\SearchResultInterface
 {
     /**
      * Aggregations
@@ -10,7 +19,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
      * @var \Magento\Framework\Search\AggregationInterface
      */
     protected $_aggregations;
-
     /**
      * constructor
      *
@@ -36,8 +44,7 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
         $eventObject,
         $resourceModel,
         $model = \Magento\Framework\View\Element\UiComponent\DataProvider\Document::class,
-        //$connection = null,
-        \Magento\Framework\DB\Adapter\AdapterInterface  $connection = null,
+        $connection = null,
         \Magento\Framework\Model\ResourceModel\Db\AbstractDb $resource = null
     ) {
         parent::__construct($entityFactory, $logger, $fetchStrategy, $eventManager, $connection, $resource);
@@ -46,7 +53,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
         $this->_init($model, $resourceModel);
         $this->setMainTable($mainTable);
     }
-
     /**
      * @return \Magento\Framework\Search\AggregationInterface
      */
@@ -54,7 +60,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         return $this->_aggregations;
     }
-
     /**
      * @param \Magento\Framework\Search\AggregationInterface $aggregations
      * @return $this
@@ -63,7 +68,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         $this->_aggregations = $aggregations;
     }
-
     /**
      * Retrieve all ids for collection
      * Backward compatibility with EAV collection
@@ -76,7 +80,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         return $this->getConnection()->fetchCol($this->_getAllIdsSelect($limit, $offset), $this->_bindParams);
     }
-
     /**
      * Get search criteria.
      *
@@ -86,7 +89,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         return null;
     }
-
     /**
      * Set search criteria.
      *
@@ -98,7 +100,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         return $this;
     }
-
     /**
      * Get total count.
      *
@@ -108,7 +109,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         return $this->getSize();
     }
-
     /**
      * Set total count.
      *
@@ -120,7 +120,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         return $this;
     }
-
     /**
      * Set items list.
      *
@@ -132,7 +131,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
     {
         return $this;
     }
-
     protected function _initSelect()
     {
         parent::_initSelect();
@@ -143,7 +141,6 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
             ['city_name' => 'drc.default_name']
         );
     }
-
     public function addFieldToFilter($field, $condition = null)
     {
         if ($field === 'city_name') {
@@ -153,5 +150,4 @@ class Collection extends \Sslwireless\Address\Model\ResourceModel\Township\Colle
         }
         return parent::addFieldToFilter($field, $condition);
     }
-
 }
