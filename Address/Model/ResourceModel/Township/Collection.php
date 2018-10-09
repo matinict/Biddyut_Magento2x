@@ -4,13 +4,13 @@ namespace Sslwireless\Address\Model\ResourceModel\Township;
 
 class Collection extends \Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection
 {
+    protected $_idFieldName = 'township_id';
     /**
      * Locale township name table name
      *
      * @var string
      */
     protected $townshipNameTable;
-
     /**
      * Define resource model.
      */
@@ -19,7 +19,6 @@ class Collection extends \Magento\Framework\Model\ResourceModel\Db\Collection\Ab
         $this->_init(\Sslwireless\Address\Model\Township::class, \Sslwireless\Address\Model\ResourceModel\Township::class);
         $this->townshipNameTable = $this->getTable('directory_city_township_name');
     }
-
     /**
      * Get region name by locale
      *
@@ -37,7 +36,6 @@ class Collection extends \Magento\Framework\Model\ResourceModel\Db\Collection\Ab
         $this->addOrder('default_name', \Magento\Framework\Data\Collection::SORT_ORDER_ASC);
         return $this;
     }
-
     public function toOptionArray()
     {
         $options = [];
@@ -49,16 +47,14 @@ class Collection extends \Magento\Framework\Model\ResourceModel\Db\Collection\Ab
             $option['label'] = ($item->getName() != '') ? $item->getName() : $item->getDefaultName();
             $options[] = $option;
         }
-
         if (count($options) > 0) {
             array_unshift(
                 $options,
-                ['title' => null, 'value' => null, 'label' => __('Please select a township.')]
+                ['title' => '', 'value' => '', 'label' => __('Please select a township.')]
             );
         }
         return $options;
     }
-
     public function getTownshipData()
     {
         $townships = [];
@@ -67,7 +63,7 @@ class Collection extends \Magento\Framework\Model\ResourceModel\Db\Collection\Ab
                 continue;
             }
             $townships[$township->getCityId()][$township->getTownshipId()] = [
-                'code' => $township->getCode(),
+                'code' => ($township->getCode() != null) ? $township->getCode() : '',
                 'name' => ($township->getName() != '') ? $township->getName() : $township->getDefaultName()
             ];
         }
